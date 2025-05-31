@@ -4,7 +4,7 @@ CONDITIONAL STATEMENT
 
    syntax:-
           condition?true statement: false statement;
-
+i am a java full stack developer 
 
   Ex:-
 sdfghjklkjhgfdfghjkjhgfd
@@ -17,4 +17,4 @@ sdfghjklkjhgfdfghjkjhgfd
 
       output:-
               fruit
-              vegtable
+              vegetable  yhis il;s a vegtables
