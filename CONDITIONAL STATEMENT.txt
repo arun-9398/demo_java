@@ -1,0 +1,20 @@
+CONDITIONAL STATEMENT
+-------------------------------------------------------------------------------------------------
+ given below code is syntax for conditional statement
+
+   syntax:-
+          condition?true statement: false statement;
+
+
+  Ex:-
+
+       var num1=true;
+       var num2=false;
+   
+  num1?document.write(`fruit`):document.write(`vegetables`)     ( #here if "num1" is true fruit is print otherwise "num1" is false print vegtables "here first is true and second one is false )
+  num2?document.write(`fruit`):document.write(`vegetables`)
+   
+
+      output:-
+              fruit
+              vegtable
