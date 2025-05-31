@@ -7,7 +7,7 @@ CONDITIONAL STATEMENT
 
 
   Ex:-
-
+sdfghjklkjhgfdfghjkjhgfd
        var num1=true;
        var num2=false;
    
